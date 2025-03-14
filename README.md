@@ -4,4 +4,4 @@ MedInc: Median income for households within a block of houses (measured in tens 
 
 One dependent variable that is to be predicted is: price_above_median: Median house value for households within a block (measured in US Dollars)
 
-It can be downloaded here.
+It can be downloaded here: https://raw.githubusercontent.com/joestubbs/coe379L-sp25/refs/heads/master/datasets/unit02/california_housing.csv.
